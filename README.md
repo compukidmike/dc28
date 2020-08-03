@@ -17,9 +17,11 @@ Automotive ethernet is very similar to regular ethernet, but it runs over a sing
 
 There is a mode button on the back of the badge. Pressing it cycles through the various modes. There are 4 blinky modes and 4 ethernet modes. The ethernet modes use the bottom "thruster" LEDs to indicate the status of the automotive ethernet ports (see picture). The different modes allow you to change the Primary/Secondary setting for each automotive ethernet port.
 
-The badge can be powered from batteries or USB. The batteries won't last long with the ethernet functions enabled, so USB power is suggested unless you just want the blinky lights.
+The ports on the badge are labeled P0-P4. P0 connects to P2 and P1 connects to P3. P0 and P1 are automotive ethernet ports. To connect wires, press down on the button on top of the connector and insert a stripped wire. Release the button and the wire will be retained. P1 and P3 are standard RJ45 jacks and can be connected with a cat5 cable to a computer or switch. The ports support auto-mdix so a crossover cable is not necessary.
 
-NOTE: When using the ethernet functions, the badge will get warm. This is normal.
+The badge can be powered from batteries or USB. The batteries won't last long in the ethernet modes, so USB power is suggested unless you just want the blinky lights.
+
+NOTE: When using the ethernet modes, the badge will get warm. This is normal.
 
 ## Firmware Updates
 
