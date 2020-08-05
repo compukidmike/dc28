@@ -15,7 +15,7 @@ Automotive ethernet is very similar to regular ethernet, but it runs over a sing
 
 ![Badge Back](/images/back.png)
 
-There is a mode button on the back of the badge. Pressing it cycles through the various modes. There are 4 blinky modes and 4 ethernet modes. The ethernet modes use the bottom "thruster" LEDs to indicate the status of the automotive ethernet ports (see picture). The different modes allow you to change the Primary/Secondary setting for each automotive ethernet port.
+There is a mode button on the back of the badge. Pressing it cycles through the various modes. There are 4 blinky modes and 4 ethernet modes. The different ethernet modes allow you to change the Primary/Secondary setting for each automotive ethernet port. The ethernet modes use the bottom "thruster" LEDs to indicate the status of the automotive ethernet ports (see picture). The amber LEDs on the RJ45 jacks also show the connected status of the automotive ethernet ports (the green LEDs on the ports show the standard ethernet link/activity).
 
 The ports on the badge are labeled P0-P4. P0 connects to P2 and P1 connects to P3. P0 and P1 are automotive ethernet ports. To connect wires, press down on the button on top of the connector and insert a stripped wire. Release the button and the wire will be retained. P1 and P3 are standard RJ45 jacks and can be connected with a cat5 cable to a computer or switch. The ports support auto-mdix so a crossover cable is not necessary.
 
