@@ -2,7 +2,7 @@
 
 This year we teamed up with the Car Hacking Village to bring you an awesome badge!
 
-![Badge Front](/images/front.png)
+![Badge Front](/images/front.jpg)
 
 The badge features two automotive ethernet media converters, which allow you to connect automotive ethernet devices to a standard ethernet network. Since there isn't a universal connector for automotive ethernet, the badge has a tool-less wire connector so you can connect any twisted wire pair to it.
 
